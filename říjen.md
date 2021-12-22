@@ -1,0 +1,5 @@
+---
+aliases: [října,říjnu]
+tags: []
+---
+

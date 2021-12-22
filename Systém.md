@@ -1,0 +1,118 @@
+---
+aliases: []
+tags: [III_zoologie]
+---
+říše živočichové - *Animalia*
+- třída savci *[[Mammalia]]*
+	- řád sudokopytníci *[[Artiodactyla]]*
+		- podřád přežvýkaví *[[Ruminantia]]*
+			- čeleď jelenovití *[[Cervidae]]*
+				- [[Cervus elaphus|jelen evropský]]
+				- [[Dama dama|daněk skvrnitý]]
+				- [[Odocoileus virginianus|jelenec běloocasý]]
+				- los evropský
+				- [[Cervus nippon|sika]]
+				- srnec obecný
+			- čeleď turovití *[[Bovidae]]*
+				- muflon
+				- kamzík horský
+				- koza bezoárová
+		- podřád štětináči *[[Suina]]*
+			- čeleď prasovití *[[Suidae]]*
+				- prase divoké
+	- řád zajíci *[[Lagomorpha]]*
+		- čeleď zajícovití *[[Leporidae]]*
+			- zajíc polní
+			- králík divoký
+	- řád hlodavci *[[Rodentia]]*
+		- čeleď bobrovití *[[Castoridae]]*
+			- bobr evropský
+		- čeleď hrabošovití *[[Microtidae]]*
+			- ondatra pižmová
+	- řád šelmy *[[Carnivora]]*
+		- čeleď medvědovití *[[Ursidae]]*
+			- medvěd hnědý
+		- čeleď psovití *[[Canidae]]*
+			- vlk euroasijský
+			- liška obecná
+		- čeleď kočkovití *[[Felicidae]]*
+			- rys ostrovid
+			- kočka divoká
+		- čeleď lasicovití *[[Mustelidae]]*
+			- kuna lesní
+			- kuna skalní
+			- tchoř tmavý
+			- tchoř stepní
+			- jezevec lesní
+			- vydra říční
+- třída ptáci *[[Aves]]*
+	- řád hrabaví *[[Galliformes]]*
+		- čeleď tetřevovití *[[Tetraonidae]]*
+			- tetřev hlušec
+			- tetřívek obecný
+			- jeřábek lesní
+		- čeleď bažantovití *[[Phasianidae]]*
+			- koroptev polní
+			- bažant obecný
+			- bažant královský
+			- orebice horská
+			- perlička kropenatá
+			- křepelka polní
+		- čeleď krocanovití *[[Meleagrididae]]*
+			- krocan divoký
+	- řád krátkokřídlí *[[Ralliformes]]*
+		- čeleď chřástalovití *[[Rallidae]]*
+			- lyska černá
+	- řád vrubozobí *[[Anseriformes]]*
+		- čeleď kachnovití *[[Anatidae]]*
+			- husa velká
+			- husa polní
+			- husa běločelá
+			- kachna divoká
+			- čírka
+			- kopřivka obecná
+			- lžičík pestrý
+			- polák chocolačka
+			- polák velký
+	- řád měkkozobí *[[Columbiformes]]*
+		- čeleď holubovití *[[Columbidae]]*
+			- holub hřivnáč
+			- holub doupňák
+			- hrdlička zahradní
+	- řád pěvci *[[Passeriformes]]*
+		- čeleď krkavcovití *[[Corvidae]]*
+			- vrána obecná
+			- havran polní
+			- krkavec velký
+			- straka obecná
+			- sojka obecná
+		- čeleď špačkovití *[[Sturnidae]]*
+			- špaček obecný
+	- řád dravci *[[Accipitriformes]]*
+		- čeleď krahujcovití *[[Accipitridae]]*
+			- krahujec obecný
+			- jestřáb lesní
+			- káně lesní
+			- káně rousná
+			- moták pochop
+	- řád sokoli *[[Falconiformes]]*
+		- čeleď sokolovití *[[Falconidae]]*
+			- sokol stěhovavý
+			- raroh velký
+			- poštolka obecná
+	- řád sovy *[[Strigiformes]]*
+		- čeleď puštíkovití *[[Strigidae]]*
+			- výr velký
+	- řád brodiví *[[Ciconiiformes]]*
+		- čeleď volavkovití *[[Ardeidae]]*
+			- volavka popelavá
+	- řád bahňáci *[[Charadriiformes]]*
+		- čeleď slukovití *[[Scolopacidae]]*
+			- sluka lesní
+	- řád dlouhokřídlí *[[Lariformes]]*
+		- čeleď rackovití *[[Laridae]]*
+			- racek chechtavý
+	- řád veslonozí *[[Pelecaniformes]]*
+		- čeleď kormoránovití *[[Phalacrocoracidae]]*
+			- kormorán velký
+
